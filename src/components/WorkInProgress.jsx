@@ -5,8 +5,8 @@ const WorkInProgress = () => {
   const whatsappNumber = "8801776380593"; 
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-[#b8cace] to-[#A98547] text-gray-100 p-6">
-      <div className="w-full max-w-lg text-center space-y-8">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-linear-to-br from-[#f0f4f5] to-[#A98547] text-gray-100 p-6">
+      <div className="w-full max-w-xl text-center space-y-8">
         
         {/* Logo Part */}
         <div className="flex flex-col items-center justify-center space-y-3">
@@ -14,8 +14,8 @@ const WorkInProgress = () => {
           <div>
             <img src="" alt="" />
           </div>
-          <h2 className="text-2xl story-script-regular tracking-widest text-[#A98547] uppercase font-bold">
-            AAA Bath & Beauty
+          <h2 className="text-4xl cantarell-bold tracking-normal text-[#A98547] uppercase font-bold">
+            Triple A <br />Bath & Beauty
           </h2>
         </div>
         
@@ -40,7 +40,7 @@ const WorkInProgress = () => {
             </h1>
           </div>
           
-          <p className="text-gray-800 text-lg px-4 cantarell-regular">
+          <p className="text-gray-800 text-xl px-4 cantarell-regular">
             Our website is currently under development. In the meantime, feel free to reach out to us directly for any inquiries!
           </p>
         </div>
