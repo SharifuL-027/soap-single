@@ -8,7 +8,7 @@ const WorkInProgress = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-linear-to-br from-[#f0f4f5] to-[#A98547] text-gray-100 p-6">
       <div className="w-full max-w-xl text-center space-y-8">
         
-        {/* Logo Part */}
+      
         <div className="flex flex-col items-center justify-center space-y-3">
           {/* Replace this SVG with your actual <img> logo */}
           <div>
